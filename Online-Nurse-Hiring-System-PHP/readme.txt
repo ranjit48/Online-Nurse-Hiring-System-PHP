@@ -19,7 +19,4 @@ Credential for Admin panel :
 Username: ranjit
 Password: ranjit
 
-<p align="center">
-  <img src="https://github.com/ranjit48/Online-Nurse-Hiring-System-PHP/blob/main/img/Screenshot%202024-06-02%20183507.png" width="350" title="hover text">
-  <img src="https://github.com/ranjit48/Online-Nurse-Hiring-System-PHP/blob/main/img/Screenshot%202024-06-02%20183528.png" width="350" alt="accessibility text">
-</p>
+![Example Images]("https://github.com/ranjit48/Online-Nurse-Hiring-System-PHP/blob/main/img/Screenshot%202024-06-02%20183507.png")
