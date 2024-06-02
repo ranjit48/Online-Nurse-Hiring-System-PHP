@@ -16,5 +16,5 @@ How to run the Restaurant Table Booking System (rtbs) Project
 
 Credential for Admin panel :
 
-Username: admin
-Password: Test@123
+Username: ranjit
+Password: ranjit
